@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+  Light_Load     0.9824    0.9299    0.9554      1498
+Maximum_Load     0.4341    0.4923    0.4614       455
+ Medium_Load     0.5055    0.5210    0.5131       620
+
+    accuracy                         0.7540      2573
+   macro avg     0.6407    0.6477    0.6433      2573
+weighted avg     0.7705    0.7540    0.7615      2573
